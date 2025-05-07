@@ -13,5 +13,4 @@ A simple rule-based Python chatbot designed to assist prospective students with 
   - Academic programs and courses
   - Financial aid and scholarships
   - Campus life and facilities
-- Simulates typing effect for realistic interaction.
-- Fully command-line based, no dependencies beyond the Python standard library.
+
